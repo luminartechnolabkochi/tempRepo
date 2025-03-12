@@ -10,4 +10,4 @@
 
 >git remote -v
 
->branches
+>git branch [liat all branches]
