@@ -10,7 +10,7 @@
 
 >git remote -v
 
->git branch [liat all branches]
+>git branch [list all branches]
 
 this line is added from student branch
 
